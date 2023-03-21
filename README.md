@@ -8,6 +8,9 @@
   <a href="https://hh.ru/resume/f1dc5495ff0b99fa700039ed1f74764e646133">
   <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
   </a>
+  <a href="oversilinse@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=mail&logoColor=white" alt="gmail Badge"/>
+  </a>
 </div>
 <h1 align="center">
   Ivan Kuznetsov
